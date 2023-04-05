@@ -32,3 +32,4 @@ Carthage/Build
 
 ## AppCode
 .idea/
+.swiftpm
